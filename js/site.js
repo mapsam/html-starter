@@ -1,5 +1,3 @@
-function init() {
-	// dat ass
-}
-
-window.onLoad = init();
+jQuery(document).ready(function($){
+  // mug
+});
