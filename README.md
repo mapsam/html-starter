@@ -1,4 +1,4 @@
-Owl & Wolf
-==========
+html-starter
+============
 
 Nothing fancy.
