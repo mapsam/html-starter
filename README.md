@@ -1,4 +1,4 @@
-html-starter
-============
+Owl & Wolf
+==========
 
-Nothing fancy, just so you don't ever have to type those darn html tags again
+Hoot. Howl. Create.
